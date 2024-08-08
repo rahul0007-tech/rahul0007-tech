@@ -17,12 +17,3 @@ I'm a passionate software developer with a keen interest in web development and 
 
 ## 📈 GitHub Stats
 ![Rahul Gupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul0007-tech&show_icons=true&theme=radical)
-
-## 📫 How to reach me
-- [Twitter](https://twitter.com/rahulgupta)
-- [LinkedIn](https://linkedin.com/in/rahulgupta)
-- [Email](mailto:rahulgupta@example.com)
-
-## 🔗 Links
-- [Portfolio](https://yourportfolio.com)
-- [Blog](https://yourblog.com)
